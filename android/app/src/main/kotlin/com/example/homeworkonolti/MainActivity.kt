@@ -1,0 +1,6 @@
+package com.example.homeworkonolti
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
